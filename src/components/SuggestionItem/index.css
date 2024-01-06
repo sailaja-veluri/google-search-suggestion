@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.suggestion-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion-item {
+  color: #475569;
+  font-size: 12px;
+}
+.button1 {
+  cursor: pointer;
+  outline: none;
+  background-color: white;
+  border: none;
+}
+.arrow-pic {
+  height: 20px;
+  width: 20px;
+}
